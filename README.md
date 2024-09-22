@@ -76,13 +76,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttvjoltz1234" alt="GitHub Streak" />
 </p>
-
----
-
-### Support 🙏
-Are you enjoying the tool? Your support keeps open-source tools free for everyone.  
-[Buy me a coffee](https://ko-fi.com/rahuldkjain) or [donate via PayPal](https://paypal.me/rahuldkjain).
-
----
-
-Developed in India 🇮🇳
