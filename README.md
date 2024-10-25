@@ -17,20 +17,6 @@
     </a>
 </p>
 
----
-
-- 🔭 I’m currently working on: [XZX Music Bot](https://discord.com/oauth2/authorize?client_id=1283938139441987607)
-- 🌱 I’m learning **HTML**
-- 👯 I’m open to collaborating on: [Pyro Development](https://dsc.gg/pyro-support)
-- 🤝 Seeking help with: [Pyro All In One Bot](https://discord.com/oauth2/authorize?client_id=1279431778813087814)
-- 👨‍💻 Check out my projects: [My Portfolio](https://ttvjoltz1234.pages.dev/)
-- 💬 Ask me about **Gaming, Discord, Websites, Anything!**
-- 📫 Reach me at: **wholley1234@aol.com**
-- 📄 Explore my experiences: [Pyro Development](https://dsc.gg/pyro-support)
-- ⚡ Fun Fact: **I think this Earth sucks!**
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/ttv_joltz1234" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
