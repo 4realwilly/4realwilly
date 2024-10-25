@@ -48,17 +48,3 @@
     <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
     <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/></a>
 </p>
-
----
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttvjoltz1234&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ttvjoltz1234&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttvjoltz1234" alt="GitHub Streak" />
-</p>
