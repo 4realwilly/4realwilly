@@ -5,10 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=ttvjoltz1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ttvjoltz1234" alt="Achievements" />
-</p>
-
 <h3>Languages and Tools:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
