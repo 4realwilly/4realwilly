@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=william2sober&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://api.william2sober.us.kg/api?id=837162825373188106" alt="Discord Status" />
 </p>
 
