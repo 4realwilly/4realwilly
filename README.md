@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.aetherbot.us.kg/api?id=837162825373188106" alt="Discord Status" />
+  <img src="https://api.dinobyte.us.kg/api?id=837162825373188106" alt="Discord Status" />
 </p>
 
 ---
