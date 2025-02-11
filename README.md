@@ -9,6 +9,10 @@
   <img src="https://api.dinobyte.us.kg/api?id=837162825373188106" alt="Discord Status" />
 </p>
 
+<p align="center">
+  <img src="https://discord.com/api/guilds/1338179064372006983/widget.png?style=banner2" alt="Discord Banner 2"/>
+</p>
+
 ---
 
 - 🔭 Currently working on [William's Hang Out Community](https://william2sober.us.kg/discord)  
