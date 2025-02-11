@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Frontend Developer from Chicago, Illinois</h3>
+<h3 align="center">Owner of DinoByte Hosting - Free Discord Bot, Web Hosting & Game Hosting</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=william2sober&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,7 +13,7 @@
   <img src="https://discord.com/api/guilds/1338179064372006983/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
 
----
+<hr>
 
 - 🔭 Currently working on [DinoByte Hosting](https://www.dinobyte.us.kg)  
 - 🌱 Learning **Node.js, Python, Java, MongoDB**  
@@ -22,7 +22,7 @@
 - 💬 Ask me about **Discord Bots** and **Web Development**  
 - 📫 Reach me at **William2sober@gmail.com**  
 
----
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
@@ -53,8 +53,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" />
 </p>
-
----
-
-<h3 align="center">Fun Fact:</h3>
-<p align="center">I'm cool 😎</p>
