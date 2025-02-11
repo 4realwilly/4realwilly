@@ -15,9 +15,9 @@
 
 ---
 
-- 🔭 Currently working on [William's Hang Out Community](https://william2sober.us.kg/discord)  
+- 🔭 Currently working on [DinoByte Hosting](https://www.dinobyte.us.kg)  
 - 🌱 Learning **Node.js, Python, Java, MongoDB**  
-- 👯 Open to collaboration on [William's Hang Out Community](https://william2sober.us.kg/discord)  
+- 👯 Open to collaboration on [DinoByte Hosting](https://www.dinobyte.us.kg)  
 - 👨‍💻 Check out my work at [https://william2sober.us.kg](https://william2sober.us.kg)  
 - 💬 Ask me about **Discord Bots** and **Web Development**  
 - 📫 Reach me at **William2sober@gmail.com**  
@@ -35,7 +35,7 @@
   <a href="https://www.youtube.com/c/william2sober" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
   </a>
-  <a href="https://discord.gg/x7dd75cb2z" target="_blank">
+  <a href="https://www.dinobyte.us.kg/discord" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
