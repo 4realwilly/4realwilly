@@ -18,7 +18,6 @@
 - 🔭 Currently working on [DinoByte Hosting](https://www.dinobyte.us.kg)  
 - 🌱 Learning **Node.js, Python, Java, MongoDB**  
 - 👯 Open to collaboration on [DinoByte Hosting](https://www.dinobyte.us.kg)  
-- 👨‍💻 Check out my work at [https://william2sober.us.kg](https://william2sober.us.kg)  
 - 💬 Ask me about **Discord Bots** and **Web Development**  
 - 📫 Reach me at **William2sober@gmail.com**  
 
