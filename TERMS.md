@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: September 29, 2024
+Last updated: February 21, 2025
 
 By accessing or using this repository, you agree to comply with and be bound by the following terms and conditions. If you do not agree with any part of these terms, you must not use this repository.
 
@@ -31,8 +31,9 @@ These Terms are governed by the laws of Illinois. You agree to submit to the per
 
 ## 7. Contact Information
 
-If you have any questions about these Terms, please contact me at wholley1234@aol.com.
+If you have any questions about these Terms, please contact me at william2sober@gmail.com.
 
 ---
 
 By using this repository, you acknowledge that you have read and understood these Terms and Conditions.
+
