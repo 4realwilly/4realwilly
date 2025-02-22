@@ -9,13 +9,17 @@
   <img src="https://discord.com/api/guilds/1342279631079739422/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
 
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31eix3zjcg2uvuxpbiofz6ghai2e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=00ccff" alt="Spotify Now Playing"/>
+</p>
+
 <hr>
 
 - 🔭 Currently working on various **development projects**  
 - 🌱 Learning **Node.js, Python, Java, MongoDB**  
 - 👯 Open to collaboration on **Discord Bots & Web Development**  
 - 💬 Ask me about **Programming, Hosting, and Server Management**  
-- 📫 Reach me at **William2sober@gmail.com**  
+- 📧 Reach me at **William2sober@gmail.com**  
 
 <hr>
 
@@ -30,7 +34,7 @@
   <a href="https://www.youtube.com/c/william2sober" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
   </a>
-  <a href="https://discord.gg/YOUR_INVITE_LINK" target="_blank">
+  <a href="https://discord.gg/48BDu759Yc" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
@@ -48,6 +52,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" />
 </p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eix3zjcg2uvuxpbiofz6ghai2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
