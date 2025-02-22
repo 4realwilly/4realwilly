@@ -48,3 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" />
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eix3zjcg2uvuxpbiofz6ghai2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
