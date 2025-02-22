@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Owner of DinoByte Hosting - Free Discord Bot, Web Hosting & Game Hosting</h3>
+<h3 align="center">Developer | Discord Bot Creator | Web & Software Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=william2sober&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://discord.com/api/guilds/1338179064372006983/widget.png?style=banner2" alt="Discord Banner 2"/>
+  <img src="https://discord.com/api/guilds/1342279631079739422/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
 
 <hr>
 
-- 🔭 Currently working on [DinoByte Hosting](https://www.dinobyte.us.kg)  
+- 🔭 Currently working on various **development projects**  
 - 🌱 Learning **Node.js, Python, Java, MongoDB**  
-- 👯 Open to collaboration on [DinoByte Hosting](https://www.dinobyte.us.kg)  
-- 💬 Ask me about **Discord Bots** and **Web Development**  
+- 👯 Open to collaboration on **Discord Bots & Web Development**  
+- 💬 Ask me about **Programming, Hosting, and Server Management**  
 - 📫 Reach me at **William2sober@gmail.com**  
 
 <hr>
@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/c/william2sober" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
   </a>
-  <a href="https://www.dinobyte.us.kg/discord" target="_blank">
+  <a href="https://discord.gg/YOUR_INVITE_LINK" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
