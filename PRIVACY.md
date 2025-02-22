@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: September 29, 2024
+Last updated: February 21, 2025
 
 This Privacy Policy describes how I collect, use, and protect your personal information when you access or use this repository.
 
@@ -26,8 +26,9 @@ I may update this Privacy Policy from time to time. Any changes will be effectiv
 
 ## 6. Contact Information
 
-If you have any questions about this Privacy Policy, please contact me at wholley1234@aol.com.
+If you have any questions about this Privacy Policy, please contact me at william2sober@gmail.com.
 
 ---
 
 By using this repository, you acknowledge that you have read and understood this Privacy Policy.
+
