@@ -34,7 +34,7 @@
   <a href="https://www.youtube.com/c/william2sober" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
   </a>
-  <a href="https://discord.gg/48BDu759Yc" target="_blank">
+  <a href="https://discord.gg/8K2neBXVfg target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
