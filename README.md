@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.com/api/guilds/1342279631079739422/widget.png?style=banner2" alt="Discord Banner 2"/>
-</p>
-
-<p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
 </p>
 
@@ -34,7 +30,7 @@
   <a href="https://www.youtube.com/c/william2sober" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
   </a>
-  <a href="https://discord.gg/8K2neBXVfg target="_blank">
+  <a href="https://discord.gg/G8hJGkZMqD target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
