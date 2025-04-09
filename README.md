@@ -15,11 +15,11 @@
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="20" style="filter: invert(100%)" /> I’m currently working on various **development projects**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="20" style="filter: invert(100%)" /> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="20" style="filter: invert(100%)" /> Open to collaborating on **Discord bots** and **web development**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linux.svg" width="20" style="filter: invert(100%)" /> Ask me about **programming, hosting, or server management**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" style="filter: invert(100%)" /> Reach me at **William2sober@gmail.com**
+- <i class="fab fa-code"></i> I’m currently working on various **development projects**  
+- <i class="fab fa-leaf"></i> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
+- <i class="fab fa-users"></i> Open to collaborating on **Discord bots** and **web development**  
+- <i class="fab fa-comments"></i> Ask me about **programming, hosting, or server management**  
+- <i class="fab fa-envelope"></i> Reach me at **William2sober@gmail.com**
 
 ---
 
@@ -27,34 +27,34 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 
 <p align="center">
   <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="30" style="filter: invert(100%)" alt="YouTube" />
+    <i class="fab fa-youtube" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://discord.gg/G8hJGkZMqD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" style="filter: invert(100%)" alt="Discord" />
+    <i class="fab fa-discord" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://www.tiktok.com/@william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" style="filter: invert(100%)" alt="TikTok" />
+    <i class="fab fa-tiktok" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://www.twitch.tv/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="30" style="filter: invert(100%)" alt="Twitch" />
+    <i class="fab fa-twitch" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://x.com/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" style="filter: invert(100%)" alt="X (Twitter)" />
+    <i class="fab fa-x" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://www.instagram.com/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" style="filter: invert(100%)" alt="Instagram" />
+    <i class="fab fa-instagram" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://www.snapchat.com/add/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="30" style="filter: invert(100%)" alt="Snapchat" />
+    <i class="fab fa-snapchat" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://t.me/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" style="filter: invert(100%)" alt="Telegram" />
+    <i class="fab fa-telegram" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" style="filter: invert(100%)" alt="WhatsApp" />
+    <i class="fab fa-whatsapp" style="font-size: 30px; color: white;"></i>
   </a>
   <a href="https://willy.us.kg/discord" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" style="filter: invert(100%)" alt="Discord Link" />
+    <i class="fab fa-discord" style="font-size: 30px; color: white;"></i>
   </a>
 </p>
 
@@ -63,12 +63,11 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/>
+  <i class="fab fa-js-square" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-node" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-python" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-java" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-mongodb" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-linux" style="font-size: 40px; color: white;"></i>
+  <i class="fab fa-docker" style="font-size: 40px; color: white;"></i>
 </p>
