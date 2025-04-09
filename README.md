@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wavinghand.svg" width="25" />, I'm William</h1>
+<h1 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/person.svg" width="25" style="filter: invert(100%)" />, I'm William</h1>
 <h3 align="center">Developer · Discord Bot Creator · Web & Software Enthusiast</h3>
 
 <p align="center">
@@ -11,15 +11,15 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="20"/> About Me
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="20" style="filter: invert(100%)" /> About Me
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="20"/> I’m currently working on various **development projects**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="20"/> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="20"/> Open to collaborating on **Discord bots** and **web development**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linux.svg" width="20"/> Ask me about **programming, hosting, or server management**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/> Reach me at **William2sober@gmail.com**
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="20" style="filter: invert(100%)" /> I’m currently working on various **development projects**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="20" style="filter: invert(100%)" /> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="20" style="filter: invert(100%)" /> Open to collaborating on **Discord bots** and **web development**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linux.svg" width="20" style="filter: invert(100%)" /> Ask me about **programming, hosting, or server management**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" style="filter: invert(100%)" /> Reach me at **William2sober@gmail.com**
 
 ---
 
@@ -27,34 +27,34 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 
 <p align="center">
   <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="30" alt="YouTube" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="30" style="filter: invert(100%)" alt="YouTube" />
   </a>
   <a href="https://discord.gg/G8hJGkZMqD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" style="filter: invert(100%)" alt="Discord" />
   </a>
   <a href="https://www.tiktok.com/@william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" alt="TikTok" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" style="filter: invert(100%)" alt="TikTok" />
   </a>
   <a href="https://www.twitch.tv/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="30" alt="Twitch" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="30" style="filter: invert(100%)" alt="Twitch" />
   </a>
   <a href="https://x.com/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" alt="X (Twitter)" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" style="filter: invert(100%)" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" style="filter: invert(100%)" alt="Instagram" />
   </a>
   <a href="https://www.snapchat.com/add/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="30" alt="Snapchat" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="30" style="filter: invert(100%)" alt="Snapchat" />
   </a>
   <a href="https://t.me/william2sober" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" alt="Telegram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" style="filter: invert(100%)" alt="Telegram" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" alt="WhatsApp" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" style="filter: invert(100%)" alt="WhatsApp" />
   </a>
   <a href="https://willy.us.kg/discord" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" alt="Discord Link" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" style="filter: invert(100%)" alt="Discord Link" />
   </a>
 </p>
 
