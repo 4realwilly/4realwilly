@@ -24,16 +24,36 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" alt="YouTube" /></a>
-  <a href="https://discord.gg/G8hJGkZMqD" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord" /></a>
-  <a href="https://www.tiktok.com/@william2sober" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" alt="TikTok" /></a>
-  <a href="https://www.twitch.tv/william2sober" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="30" alt="Twitch" /></a>
-  <a href="https://x.com/william2sober" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" alt="X/Twitter" /></a>
-  <a href="https://www.instagram.com/william2sober" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" alt="Instagram" /></a>
-  <a href="https://www.snapchat.com/add/william2sober" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="30" alt="Snapchat" /></a>
-  <a href="https://t.me/william2sober" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" alt="Telegram" /></a>
-  <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" alt="WhatsApp" /></a>
-  <a href="https://willy.us.kg/discord" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/link.svg" height="30" alt="Link" /></a>
+  <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="30" alt="YouTube" style="color:#FF0000;" />
+  </a>
+  <a href="https://discord.gg/G8hJGkZMqD" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" alt="Discord" style="color:#5865F2;" />
+  </a>
+  <a href="https://www.tiktok.com/@william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="30" alt="TikTok" style="color:#000000;" />
+  </a>
+  <a href="https://www.twitch.tv/william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="30" alt="Twitch" style="color:#9146FF;" />
+  </a>
+  <a href="https://x.com/william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" alt="X/Twitter" style="color:#000000;" />
+  </a>
+  <a href="https://www.instagram.com/william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" alt="Instagram" style="color:#E1306C;" />
+  </a>
+  <a href="https://www.snapchat.com/add/william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="30" alt="Snapchat" style="color:#FFFC00;" />
+  </a>
+  <a href="https://t.me/william2sober" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" alt="Telegram" style="color:#26A5E4;" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="30" alt="WhatsApp" style="color:#25D366;" />
+  </a>
+  <a href="https://willy.us.kg/discord" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" alt="Discord Community" style="color:#5865F2;" />
+  </a>
 </p>
 
 ---
