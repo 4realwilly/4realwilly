@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/person.svg" width="25" style="filter: invert(100%)" />, I'm William</h1>
+<h1 align="center">Hi, I'm William</h1>
 <h3 align="center">Developer · Discord Bot Creator · Web & Software Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="20" style="filter: invert(100%)" /> About Me
+### 🧠 About Me
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
