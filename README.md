@@ -15,11 +15,11 @@
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
-- <i class="fab fa-code"></i> I’m currently working on various **development projects**  
-- <i class="fab fa-leaf"></i> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
-- <i class="fab fa-users"></i> Open to collaborating on **Discord bots** and **web development**  
-- <i class="fab fa-comments"></i> Ask me about **programming, hosting, or server management**  
-- <i class="fab fa-envelope"></i> Reach me at **William2sober@gmail.com**
+- <img src="https://img.shields.io/badge/Development%20Projects-🔭-white?style=flat&logo=github&logoColor=white" alt="Development Projects" />  
+- <img src="https://img.shields.io/badge/Learning-🌱%20Node.js,%20Python,%20Java,%20MongoDB-white?style=flat&logo=python&logoColor=white" alt="Learning Node.js, Python, Java, MongoDB" />  
+- <img src="https://img.shields.io/badge/Open%20to%20Collaborate-👯%20Discord%20Bots%20%26%20Web%20Development-white?style=flat&logo=discord&logoColor=white" alt="Collaborate on Discord Bots and Web Development" />  
+- <img src="https://img.shields.io/badge/Ask%20Me%20About-💬%20Programming,%20Hosting,%20Server%20Management-white?style=flat&logo=appveyor&logoColor=white" alt="Ask me about Programming, Hosting, and Server Management" />  
+- <img src="https://img.shields.io/badge/Contact%20Me-%F0%9F%93%AB%20William2sober%40gmail.com-white?style=flat&logo=gmail&logoColor=white" alt="Contact Me" />
 
 ---
 
@@ -27,34 +27,34 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 
 <p align="center">
   <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
-    <i class="fab fa-youtube" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-white?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.gg/G8hJGkZMqD" target="_blank">
-    <i class="fab fa-discord" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-white?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.tiktok.com/@william2sober" target="_blank">
-    <i class="fab fa-tiktok" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/TikTok-%F0%9F%8C%98-white?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.twitch.tv/william2sober" target="_blank">
-    <i class="fab fa-twitch" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Twitch-%F0%9F%8C%8F-white?style=flat&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://x.com/william2sober" target="_blank">
-    <i class="fab fa-x" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Twitter-%F0%9F%93%9A-white?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/william2sober" target="_blank">
-    <i class="fab fa-instagram" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Instagram-%F0%9F%96%BC-white?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.snapchat.com/add/william2sober" target="_blank">
-    <i class="fab fa-snapchat" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Snapchat-%F0%9F%94%8C-white?style=flat&logo=snapchat&logoColor=white" alt="Snapchat" />
   </a>
   <a href="https://t.me/william2sober" target="_blank">
-    <i class="fab fa-telegram" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Telegram-%F0%9F%94%B6-white?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
-    <i class="fab fa-whatsapp" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/WhatsApp-%F0%9F%92%A1-white?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://willy.us.kg/discord" target="_blank">
-    <i class="fab fa-discord" style="font-size: 30px; color: white;"></i>
+    <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-white?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -63,11 +63,11 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <i class="fab fa-js-square" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-node" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-python" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-java" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-mongodb" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-linux" style="font-size: 40px; color: white;"></i>
-  <i class="fab fa-docker" style="font-size: 40px; color: white;"></i>
+  <img src="https://img.shields.io/badge/JavaScript-%F0%9F%92%BB-white?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-%F0%9F%92%BE-white?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-%F0%9F%94%8C-white?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%F0%9F%92%9A-white?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MongoDB-%F0%9F%94%B1-white?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Linux-%F0%9F%97%AB-white?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-%F0%9F%92%A7-white?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
