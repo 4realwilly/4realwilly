@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William</h1>
+<h1 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wavinghand.svg" width="25" />, I'm William</h1>
 <h3 align="center">Developer · Discord Bot Creator · Web & Software Enthusiast</h3>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20"/> About Me
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="20"/> About Me
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/code.svg" width="20"/> I’m currently working on various **development projects**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="20"/> I’m currently working on various **development projects**  
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="20"/> Learning **Node.js**, **Python**, **Java**, and **MongoDB**  
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="20"/> Open to collaborating on **Discord bots** and **web development**  
 - <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linux.svg" width="20"/> Ask me about **programming, hosting, or server management**  
