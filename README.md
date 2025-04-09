@@ -53,9 +53,6 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
   <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%F0%9F%92%A1-white?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://willy.us.kg/discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-white?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 ---
