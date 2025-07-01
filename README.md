@@ -29,7 +29,7 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
   <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-white?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.gg/2Y7U3Psj3T" target="_blank">
+  <a href="https://dsc.gg/rws-bots" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-white?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.tiktok.com/@william2sober" target="_blank">
