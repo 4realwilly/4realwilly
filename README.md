@@ -21,42 +21,6 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 - <img src="https://img.shields.io/badge/Ask%20Me%20About-💬%20Programming,%20Hosting,%20Server%20Management-white?style=flat&logo=appveyor&logoColor=white" alt="Ask me about Programming, Hosting, and Server Management" />  
 - <img src="https://img.shields.io/badge/Contact%20Me-%F0%9F%93%AB%20William2sober%40gmail.com-white?style=flat&logo=gmail&logoColor=white" alt="Contact Me" />
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.youtube.com/@William2sober?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%F0%9F%8E%AC-white?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://dsc.gg/rws-bots" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%F0%9F%92%96-white?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.tiktok.com/@william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%F0%9F%8C%98-white?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.twitch.tv/william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%F0%9F%8C%8F-white?style=flat&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://x.com/william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%F0%9F%93%9A-white?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%F0%9F%96%BC-white?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.snapchat.com/add/william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%F0%9F%94%8C-white?style=flat&logo=snapchat&logoColor=white" alt="Snapchat" />
-  </a>
-  <a href="https://t.me/william2sober" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%F0%9F%94%B6-white?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=13099483484" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%F0%9F%92%A1-white?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
