@@ -19,7 +19,7 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 - <img src="https://img.shields.io/badge/Learning-🌱%20Node.js,%20Python,%20Java,%20MongoDB-white?style=flat&logo=python&logoColor=white" alt="Learning Node.js, Python, Java, MongoDB" />  
 - <img src="https://img.shields.io/badge/Open%20to%20Collaborate-👯%20Discord%20Bots%20%26%20Web%20Development-white?style=flat&logo=discord&logoColor=white" alt="Collaborate on Discord Bots and Web Development" />  
 - <img src="https://img.shields.io/badge/Ask%20Me%20About-💬%20Programming,%20Hosting,%20Server%20Management-white?style=flat&logo=appveyor&logoColor=white" alt="Ask me about Programming, Hosting, and Server Management" />  
-- <img src="https://img.shields.io/badge/Contact%20Me-%F0%9F%93%AB%20William2sober%40gmail.com-white?style=flat&logo=gmail&logoColor=white" alt="Contact Me" />
+- <img src="https://img.shields.io/badge/Contact%20Me-%F0%9F%93%AB%20wholley123@icloud.com-white?style=flat&logo=gmail&logoColor=white" alt="Contact Me" />
 
 ### 🛠️ Languages & Tools
 
