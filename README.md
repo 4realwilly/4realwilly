@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+### <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> About Me
 
 Hi! I'm **William**, a passionate developer and gamer who enjoys creating projects and living life sober. I love coding and gaming, and I'm always working on something new!
 
@@ -20,15 +20,3 @@ Hi! I'm **William**, a passionate developer and gamer who enjoys creating projec
 - <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> **Open to Collaborate** – Discord Bots & Web Development  
 - <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> **Ask Me About** – Programming, Hosting, Server Management  
 - <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> **Contact Me** – wholley123@icloud.com
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> JavaScript
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> Node.js
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> Python
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> Java
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> MongoDB
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> Linux
-  <img src="https://cdn.discordapp.com/emojis/1389360328772423811.png" width="20" /> Docker
-</p>
