@@ -10,12 +10,11 @@
 <details>
 <summary> :bulb: About Me</summary>
 
-- 🔭 Currently working on **[Watchly](https://watchly.qzz.io/)**  
 - 🌱 Learning **Node.js, Python, Java, HTML, CSS, MySQL, MongoDB**  
 - 👯 Open to collaborating on **Websites, Discord Bots, API Projects**  
 - 📫 Email: **wholley123@icloud.com**  
-- 🌎 Portfolio: [**My Projects**](https://4realwilly.qzz.io/projects)  
-- 📄 Profile: [**About Me**](https://4realwilly.qzz.io/about)  
+- 🌎 Portfolio: [**My Projects**](https://w4r.qzz.io)  
+- 📄 Profile: [**About Me**](https://w4r.qzz.io)  
 - ⚡ Fun fact: *Started coding at 13 and love backend automation*  
 
 </details>
