@@ -1,36 +1,35 @@
-<h1 align="center">💎 Hi, I'm <span style="color:#1E90FF;">William Holley</span></h1>
+<h1 align="center">💙 Hi, I'm William Holley</h1>
 
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" />
-  Welcome to my GitHub — I'm a Web Developer from Illinois!
-</h2>
+<h2 align="center">👋 Welcome to my GitHub — I'm a Web Developer from Illinois!</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=1E90FF&style=flat-square" alt="4realwilly" />
+  <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00BFFF&height=2" width="60%" />
 </p>
 
-<!-- Discord Status -->
-<a href="https://discord.com/users/1342676516353343513" target="blank">
-  <img align="right" src="https://discord-readme-badge.vercel.app/api?id=1342676516353343513&theme=blue" alt="Discord Status" />
-</a>
+<!-- ✅ Works without joining any Discord server -->
+<p align="center">
+  <a href="https://discord.com/users/1342676516353343513" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?bg=0d1117&borderRadius=8px&idleMessage=Currently%20offline%20💤&animated=true&theme=dark&hideDiscrim=true&accentColor=1E90FF" alt="Discord Status" />
+  </a>
+</p>
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/889/889140.png" width="25" /> About Me
+### 💻 About Me
 
-Hello! I’m **William Holley** from **Geneseo, IL** — a dedicated **self-taught web developer** who loves solving problems and creating sleek, functional web applications.
+Hi there! I'm **William Holley** from **Geneseo, IL** — a passionate self-taught web developer who loves solving problems and building clean, efficient websites.
 
-<img src="https://cdn-icons-png.flaticon.com/512/889/889140.png" width="18" /> I code primarily with **React**, **Node.js**, and **TypeScript**.  
-<img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" width="18" /> I’m passionate about **UI design, problem-solving, and clean architecture**.  
-<img src="https://cdn-icons-png.flaticon.com/512/889/889162.png" width="18" /> Currently exploring **Supabase** and **Next.js**.
+✨ I specialize in **Node.js**, **React**, and **TypeScript**.  
+🚀 I enjoy working on **UI/UX**, **APIs**, and **modern web frameworks**.  
+🌱 Currently exploring **Supabase** and **Next.js**.
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png" width="25" /> Tech Stack
+### 🧠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vite,vercel,supabase,java,gcp,aws,docker,cloudflare,vscode,github,replit,linkedin,discord,ai" />
@@ -38,7 +37,7 @@ Hello! I’m **William Holley** from **Geneseo, IL** — a dedicated **self-taug
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1828/1828970.png" width="25" /> GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=blueberry&count_private=true&hide_border=false" height="160" />
@@ -47,7 +46,7 @@ Hello! I’m **William Holley** from **Geneseo, IL** — a dedicated **self-taug
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/724/724877.png" width="25" /> Now Playing on Spotify
+### 🎵 Now Playing on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
@@ -57,7 +56,7 @@ Hello! I’m **William Holley** from **Geneseo, IL** — a dedicated **self-taug
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="25" /> Connect With Me
+### 🔗 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/williamholley" target="_blank">
@@ -79,16 +78,12 @@ Hello! I’m **William Holley** from **Geneseo, IL** — a dedicated **self-taug
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/889/889157.png" width="25" /> Outside of Coding
+### 🎯 Outside of Coding
 
-<div align="left">
-
-<img src="https://cdn-icons-png.flaticon.com/512/889/889163.png" width="20" /> Writing about technology and sharing insights  
-<img src="https://cdn-icons-png.flaticon.com/512/889/889117.png" width="20" /> Reading and expanding my knowledge  
-<img src="https://cdn-icons-png.flaticon.com/512/889/889152.png" width="20" /> Gaming and creative projects  
-<img src="https://cdn-icons-png.flaticon.com/512/889/889143.png" width="20" /> Traveling and exploring new ideas  
-
-</div>
+- 🧾 Writing about technology and design  
+- 📚 Reading and learning new skills  
+- 🎮 Playing games and building projects  
+- 🌍 Traveling and exploring new places  
 
 ---
 
