@@ -13,7 +13,7 @@
 <!-- ✅ Works without joining any Discord server -->
 <p align="center">
   <a href="https://discord.com/users/1342676516353343513" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?bg=0d1117&borderRadius=8px&idleMessage=Currently%20offline%20💤&animated=true&theme=dark&hideDiscrim=true&accentColor=1E90FF" alt="Discord Status" />
+    <img src="https://api.w4r.qzz.io/api?id=1342676516353343513" alt="Discord Status" />
   </a>
 </p>
 
