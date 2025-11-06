@@ -10,11 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00BFFF&height=2" width="60%" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/1342676516353343513" target="_blank">
-    <img src="https://api.w4r.qzz.io/api?id=1342676516353343513" alt="Discord Status" />
-  </a>
-</p>
 
 ---
 
