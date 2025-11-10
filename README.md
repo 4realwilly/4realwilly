@@ -42,7 +42,7 @@ Hi there! I'm **William Holley** from **Geneseo, IL** — a passionate self-taug
 ### 🎵 Now Playing on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
+  <a href="https://tracks.schema.qzz.io/api">
     <img src="https://spotify-recently-played-readme-khaki.vercel.app/api?user=312byzmt3yb4w42d6l6di4vx2de4&count=3&background_color=0d1117&border_color=1E90FF" alt="Spotify Recently Played" />
   </a>
 </div>
@@ -57,9 +57,6 @@ Hi there! I'm **William Holley** from **Geneseo, IL** — a passionate self-taug
   </a>
   <a href="https://www.youtube.com/@4realwilly" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-0078D7?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.instagram.com/4realwilly" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
   <a href="mailto:4realwilly@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
