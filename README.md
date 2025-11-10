@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00BFFF&height=2" width="60%" />
 </p>
 
-
 ---
 
 ### 💻 About Me
@@ -44,7 +43,7 @@ Hi there! I'm **William Holley** from **Geneseo, IL** — a passionate self-taug
 
 <div align="center">
   <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312byzmt3yb4w42d6l6di4vx2de4&count=3&background_color=0d1117&border_color=1E90FF" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme-khaki.vercel.app/api?user=312byzmt3yb4w42d6l6di4vx2de4&count=3&background_color=0d1117&border_color=1E90FF" alt="Spotify Recently Played" />
   </a>
 </div>
 
