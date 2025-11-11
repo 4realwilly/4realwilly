@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: July 8, 2025
+Last updated: November 11, 2025
 
 This Privacy Policy describes how I collect, use, and protect your personal information when you access or use this repository.
 
