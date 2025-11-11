@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%2300BFFF" alt="Discord Badge" width="200" />
+  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%2300BFFF" alt="Discord Badge" width="250" />
 </p>
 
 ---
