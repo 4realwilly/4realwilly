@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: July 8, 2025
+Last updated: November 11, 2025
 
 By accessing or using this repository, you agree to comply with and be bound by the following terms and conditions. If you do not agree with any part of these terms, you must not use this repository.
 
