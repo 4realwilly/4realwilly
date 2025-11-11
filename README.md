@@ -1,4 +1,7 @@
-<h1 align="center">💙 Hi, I'm William Holley</h1>
+<h1 align="center">
+  💙 Hi, I'm William Holley<br>
+  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513" alt="Discord Badge" />
+</h1>
 
 <h2 align="center">👋 Welcome to my GitHub — I'm a Web Developer from Illinois!</h2>
 
