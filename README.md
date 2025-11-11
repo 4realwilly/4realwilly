@@ -1,7 +1,4 @@
-<p align="center">
-  💙 Hi, I'm <strong>William Holley</strong><br>
-  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=black" alt="Discord Badge" />
-</p>
+<h1 align="center">💙 Hi, I'm William Holley</h1>
 
 <h2 align="center">👋 Welcome to my GitHub — I'm a Web Developer from Illinois!</h2>
 
@@ -11,6 +8,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00BFFF&height=2" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=black" alt="Discord Badge" width="150" />
 </p>
 
 ---
