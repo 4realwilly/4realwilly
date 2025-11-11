@@ -1,7 +1,7 @@
-<h1 align="center">
-  💙 Hi, I'm William Holley<br>
+<p align="center">
+  💙 Hi, I'm <strong>William Holley</strong><br>
   <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=black" alt="Discord Badge" />
-</h1>
+</p>
 
 <h2 align="center">👋 Welcome to my GitHub — I'm a Web Developer from Illinois!</h2>
 
@@ -17,15 +17,15 @@
 
 ### 💻 About Me
 
-Hi there! I'm **William Holley** from **Geneseo, IL** — a passionate self-taught web developer who loves solving problems and building clean, efficient websites.
+Hi! I'm **William Holley** from **Geneseo, IL**, a self-taught web developer passionate about creating **clean, efficient websites** and solving problems.
 
-✨ I specialize in **Node.js**, **React**, and **TypeScript**.  
-🚀 I enjoy working on **UI/UX**, **APIs**, and **modern web frameworks**.  
-🌱 Currently exploring **Supabase** and **Next.js**.
+✨ I specialize in **Node.js**, **React**, and **TypeScript**  
+🚀 I enjoy building **UI/UX**, **APIs**, and **modern web frameworks**  
+🌱 Currently exploring **Supabase** and **Next.js**
 
 ---
 
-### 🧠 Tech Stack
+### 🧰 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vite,vercel,supabase,java,gcp,aws,docker,cloudflare,vscode,github,replit,linkedin,discord,ai" />
