@@ -49,7 +49,7 @@ I love creating **clean, efficient websites** and solving challenging problems.
 
 <div align="center">
   <a href="https://tracks.schema.qzz.io/api" target="_blank">
-    <img src="https://spotify-recently-played-readme-khaki.vercel.app/api?user=312byzmt3yb4w42d6l6di4vx2de4&count=3&background_color=0d1117&border_color=1E90FF" alt="Spotify Recently Played" />
+    <img src="https://tracks.schema.qzz.io/api" alt="Spotify Recently Played" height="100" />
   </a>
 </div>
 
@@ -59,19 +59,19 @@ I love creating **clean, efficient websites** and solving challenging problems.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/williamholley" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="40" />
   </a>
   <a href="https://www.youtube.com/@4realwilly" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" height="40" />
   </a>
   <a href="mailto:4realwilly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" height="40" />
   </a>
   <a href="https://discord.com/users/1342676516353343513" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
   </a>
   <a href="https://www.replit.com/@4realwilly" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-37475D?style=for-the-badge&logo=replit&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Replit-37475D?style=for-the-badge" height="40" />
   </a>
 </div>
 
@@ -90,19 +90,19 @@ I love creating **clean, efficient websites** and solving challenging problems.
 
 <div align="center">
   <a href="https://schema.qzz.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=about-dot-me&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge" height="40" />
   </a>
   <a href="https://schema.qzz.io/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge" height="40" />
   </a>
   <a href="https://schema.qzz.io/tos" target="_blank">
-    <img src="https://img.shields.io/badge/TOS-4169E1?style=for-the-badge&logo=check-circle&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/TOS-4169E1?style=for-the-badge" height="40" />
   </a>
   <a href="https://schema.qzz.io/privacy" target="_blank">
-    <img src="https://img.shields.io/badge/Privacy-0078D7?style=for-the-badge&logo=lock&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Privacy-0078D7?style=for-the-badge" height="40" />
   </a>
   <a href="https://schema.qzz.io/discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
   </a>
 </div>
 
