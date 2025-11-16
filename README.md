@@ -70,6 +70,9 @@ I love creating **clean, efficient websites** and solving challenging problems.
   <a href="https://discord.com/users/1342676516353343513" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
+  <a href="https://www.replit.com/@4realwilly" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-37475D?style=for-the-badge&logo=replit&logoColor=white" height="40" />
+  </a>
 </div>
 
 ---
@@ -86,11 +89,21 @@ I love creating **clean, efficient websites** and solving challenging problems.
 ### 🌐 Useful Links
 
 <div align="center">
-  <a href="https://schema.qzz.io/" target="_blank">🌐 My Website</a> | 
-  <a href="https://schema.qzz.io/projects" target="_blank">📂 Projects</a> | 
-  <a href="https://schema.qzz.io/tos" target="_blank">📃 Terms of Service</a> | 
-  <a href="https://schema.qzz.io/privacy" target="_blank">🔒 Privacy Policy</a> | 
-  <a href="https://schema.qzz.io/discord" target="_blank">💬 Discord</a>
+  <a href="https://schema.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=about-dot-me&logoColor=white" height="40" />
+  </a>
+  <a href="https://schema.qzz.io/projects" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  <a href="https://schema.qzz.io/tos" target="_blank">
+    <img src="https://img.shields.io/badge/TOS-4169E1?style=for-the-badge&logo=check-circle&logoColor=white" height="40" />
+  </a>
+  <a href="https://schema.qzz.io/privacy" target="_blank">
+    <img src="https://img.shields.io/badge/Privacy-0078D7?style=for-the-badge&logo=lock&logoColor=white" height="40" />
+  </a>
+  <a href="https://schema.qzz.io/discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+  </a>
 </div>
 
 ---
