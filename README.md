@@ -61,7 +61,7 @@ I love creating **clean, efficient websites** and solving challenging problems.
   <a href="https://schema.qzz.io/discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
   </a>
-  <a href="https://snapchat.com/t/tUcYO56z" target="_blank">
+  <a href="https://snapchat.com/t/jReS8OJe" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" height="40" />
   </a>
   <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4" target="_blank">
