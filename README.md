@@ -67,7 +67,7 @@ I love creating **clean, efficient websites** and solving challenging problems.
   <a href="https://schema.qzz.io/socials/spotify" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge" height="40" />
   </a>
-  <a href="mailto:wholley123@icloud.com" target="_blank">
+  <a href="https://schema.qzz.io/socials/email" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" height="40" />
   </a>
   <a href="https://schema.qzz.io/socials/tiktok" target="_blank">
@@ -101,13 +101,13 @@ I love creating **clean, efficient websites** and solving challenging problems.
   <a href="https://schema.qzz.io/projects" target="_blank">
     <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge" height="40" />
   </a>
-  <a href="https://schema.qzz.io/tos" target="_blank">
+  <a href="https://schema.qzz.io/legal/tos" target="_blank">
     <img src="https://img.shields.io/badge/TOS-4169E1?style=for-the-badge" height="40" />
   </a>
-  <a href="https://schema.qzz.io/privacy" target="_blank">
+  <a href="https://schema.qzz.io/legal/privacy" target="_blank">
     <img src="https://img.shields.io/badge/Privacy-0078D7?style=for-the-badge" height="40" />
   </a>
-  <a href="https://schema.qzz.io/discord" target="_blank">
+  <a href="https://schema.qzz.io/socials/discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
   </a>
 </div>
