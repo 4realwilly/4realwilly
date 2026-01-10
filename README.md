@@ -58,25 +58,25 @@ I love creating **clean, efficient websites** and solving challenging problems.
 ### 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://schema.qzz.io/discord" target="_blank">
+  <a href="https://schema.qzz.io/socials/discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
   </a>
-  <a href="https://snapchat.com/t/jReS8OJe" target="_blank">
+  <a href="https://schema.qzz.io/socials/snapchat" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" height="40" />
   </a>
-  <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4" target="_blank">
+  <a href="https://schema.qzz.io/socials/spotify" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge" height="40" />
   </a>
   <a href="mailto:wholley123@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" height="40" />
   </a>
-  <a href="https://www.tiktok.com/@user483920202939" target="_blank">
+  <a href="https://schema.qzz.io/socials/tiktok" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&color=000000" height="40" />
   </a>
-  <a href="https://www.twitch.tv/4realwilly" target="_blank">
+  <a href="https://schema.qzz.io/socials/tiwtch" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge" height="40" />
   </a>
-  <a href="https://www.youtube.com/@4realwilly" target="_blank">
+  <a href="https://schema.qzz.io/socials/youtube" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" height="40" />
   </a>
 </div>
