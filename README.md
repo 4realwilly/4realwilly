@@ -18,11 +18,17 @@
 
 Hello! I'm **William**, a developer passionate about building **websites, games, and Discord bots**.
 
-- 🎂 Born on **June 19, 2009**
-- 💻 Full Stack Developer
-- ⏳ Coding for **<!-- CODING_YEARS_START -->3<!-- CODING_YEARS_END -->+ years**
-- 💖 In a relationship with **Hannah**
-- 🚀 Always learning & improving
+- 🎂 Born on **June 19, 2009**  
+- 💻 Full Stack Developer  
+- ⏳ Coding for **<!-- CODING_YEARS_START -->3<!-- CODING_YEARS_END -->+ years**  
+- 💖 In a relationship with **Hannah**  
+- 🚀 Always learning & improving  
+
+<p align="center">
+  <a href="https://schema.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-1E90FF?style=for-the-badge" alt="Website Badge" height="40" />
+  </a>
+</p>
 
 When I’m not coding, I enjoy **“deestroying” tech** (breaking things to make them better),  
 traveling, and spending time with family, friends, and Hannah.
@@ -44,9 +50,3 @@ traveling, and spending time with family, friends, and Hannah.
     <img src="https://tracks.schema.qzz.io/api" alt="Spotify Recently Played" height="100" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=120&section=footer&animation=glow" />
-</p>
