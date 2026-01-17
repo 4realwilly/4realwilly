@@ -1,119 +1,46 @@
-<h1 align="center">💙 Hi, I'm William Holley</h1>
-
-<h2 align="center">👋 Welcome to my GitHub! I'm a Web Developer from Illinois.</h2>
+<h1 align="center">Hi 👋, I'm William Holley</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%3C!--+AGE_START+--%3E16%3C!--+AGE_END+--%3E+y%2Fo+Full+Stack+Developer;Websites+%E2%80%A2+Games+%E2%80%A2+Discord+Bots;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:161b22&height=20&section=header&animation=twinkle" />
-</p>
-
-<p align="center">
-  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%23000B33" alt="Discord Badge" width="250" />
+  HTML5 • JavaScript • Python • Bots • Game Dev
 </p>
 
 ---
 
-### 💻 About Me
+## 👋 About Me
 
-Hi! I'm **William Holley**, a self-taught web developer from **Geneseo, IL**.  
-I love creating **clean, efficient websites** and solving challenging problems.  
+Hello! I'm **William**, a passionate developer who loves building **websites, games, and Discord bots**.
 
-✨ **What I do:**  
-- Build **UI/UX**, **APIs**, and **modern web frameworks**  
-- Specialize in **Node.js**, **React**, and **TypeScript**  
-- Currently exploring **Supabase** and **Next.js**
+- 🎂 Born on **June 19, 2009**
+- 💻 Full Stack Developer
+- ⏳ Coding for **<!-- CODING_YEARS_START -->3<!-- CODING_YEARS_END -->+ years**
+- 🚀 Always learning & improving
 
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vite,vercel,supabase,java,gcp,aws,docker,cloudflare,vscode,github,linkedin,discord,ai&theme=dark" />
-</div>
+When I’m not coding, I enjoy **“deestroying” tech** (breaking things to make them better),  
+traveling, and spending time with family and friends.
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=dark&count_private=true&hide_border=false&title_color=00BFFF&icon_color=1E90FF&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4realwilly&layout=compact&theme=dark&title_color=00BFFF&bg_color=0d1117&hide_border=false" height="160" />
-</div>
-
----
-
-### 🎵 Currently Listening on Spotify
-
-<div align="center">
-  <a href="https://tracks.schema.qzz.io/api" target="_blank">
-    <img src="https://tracks.schema.qzz.io/api" alt="Spotify Recently Played" height="100" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,git,github,vscode,discord&theme=dark" />
+</p>
 
 ---
 
-### 🔗 Connect With Me
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://schema.qzz.io/socials/discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/snapchat" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/spotify" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/email" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/tiktok" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&color=000000" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/tiwtch" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/youtube" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" height="40" />
-  </a>
-</div>
-
----
-
-### 🎯 Outside of Coding
-
-- 🧾 Writing about **technology and design**  
-- 📚 Learning new **skills and concepts**  
-- 🎮 Gaming and building **fun projects**  
-- 🌍 Traveling and exploring **new places**
-
----
-
-### 🌐 Useful Links
-
-<div align="center">
-  <a href="https://schema.qzz.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-1E90FF?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/legal/tos" target="_blank">
-    <img src="https://img.shields.io/badge/TOS-4169E1?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/legal/privacy" target="_blank">
-    <img src="https://img.shields.io/badge/Privacy-0078D7?style=for-the-badge" height="40" />
-  </a>
-  <a href="https://schema.qzz.io/socials/discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge" height="40" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=dark" height="160" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer&animation=glow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" />
 </p>
