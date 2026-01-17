@@ -1,0 +1,42 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate age and coding years
+        run: |
+          # Birthdate (YYYY-MM-DD)
+          BIRTHDATE="2009-06-19"
+
+          # Year you started coding (CHANGE IF NEEDED)
+          CODING_START_YEAR=2022
+
+          TODAY=$(date +%Y-%m-%d)
+          CURRENT_YEAR=$(date +%Y)
+
+          # Calculate age
+          AGE=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$BIRTHDATE" +%s) ) / 31556952 ))
+
+          # Calculate years of coding
+          CODING_YEARS=$(( CURRENT_YEAR - CODING_START_YEAR ))
+
+          # Update README placeholders
+          sed -i "s/<!-- AGE_START -->.*<!-- AGE_END -->/<!-- AGE_START -->$AGE<!-- AGE_END -->/" README.md
+          sed -i "s/<!-- CODING_YEARS_START -->.*<!-- CODING_YEARS_END -->/<!-- CODING_YEARS_START -->$CODING_YEARS<!-- CODING_YEARS_END -->/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git commit -am "Auto-update age and coding years" || exit 0
+          git push
