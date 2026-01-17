@@ -12,10 +12,6 @@
   <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%231E90FF" alt="Discord Badge" width="250" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E90FF,100:87CEFA&height=20&section=header&animation=twinkle" />
-</p>
-
 ---
 
 ## 👋 About Me
