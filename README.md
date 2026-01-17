@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%23000B33" alt="Discord Badge" width="250" />
+  <img src="https://badge.schema.qzz.io/api?id=1342676516353343513&color=%231E90FF" alt="Discord Badge" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000B33,100:0d1117&height=20&section=header&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E90FF,100:87CEFA&height=20&section=header&animation=twinkle" />
 </p>
 
 ---
@@ -47,8 +47,8 @@ traveling, and spending time with family and friends.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=dark&bg_color=000B33" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=dark&bg_color=000B33" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=radical&count_private=true&hide_border=false&bg_color=1E90FF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=radical&hide_border=false&bg_color=1E90FF" height="160" />
 </p>
 
 ---
@@ -64,5 +64,5 @@ traveling, and spending time with family and friends.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B33,100:0d1117&height=120&section=footer&animation=glow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=120&section=footer&animation=glow" />
 </p>
