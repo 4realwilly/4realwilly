@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm William Holley</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%3C!--+AGE_START+--%3E16%3C!--+AGE_END+--%3E+y%2Fo+Full+Stack+Developer;Websites+%E2%80%A2+Games+%E2%80%A2+Discord+Bots;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Websites+•+Games+•+Discord+Bots;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <!-- AGE_START -->16<!-- AGE_END -->
+  <strong>16 y/o Full Stack Developer</strong>
 </p>
 
 <p align="center">
@@ -12,7 +17,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **William**, a passionate developer who loves building **websites, games, and Discord bots**.
+Hello! I'm **William**, a developer passionate about building **websites, games, and Discord bots**.
 
 - 🎂 Born on **June 19, 2009**
 - 💻 Full Stack Developer
