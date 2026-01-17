@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- AGE_START -->16<!-- AGE_END -->
-  <strong>16 y/o Full Stack Developer</strong>
+  <strong><!-- AGE_START -->16<!-- AGE_END --> y/o Full Stack Developer</strong>
 </p>
 
 <p align="center">
