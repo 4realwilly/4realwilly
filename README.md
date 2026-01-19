@@ -50,8 +50,3 @@ traveling, and spending time with family, friends, and Hannah.
     <img src="https://tracks.schema.qzz.io/api" alt="Spotify Recently Played" height="100" />
   </a>
 </div>
-
-
-fff
-
-
