@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://schema.qzz.io">
+  <a href="https://me.will.sryze.cc">
     <img src="https://img.shields.io/badge/🌐 Website-1E90FF?style=for-the-badge" />
   </a>
 </p>
