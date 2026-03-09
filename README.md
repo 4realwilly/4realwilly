@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&theme=dark"/>
+    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&animated=false&hideStatus=true&hideDecoration=true&animatedDecoration=false&hideTimestamp=true&hideTag=true&hideBadges=true&hideActivity=true&hideSpotify=true&theme=dark"/>
   </a>
 </p>
 
@@ -26,31 +26,31 @@
 <p align="center">
 
 <a href="mailto:william.h61909@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
 
 <a href="https://discord.gg/YBPd4X5Xjs">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50"/>
 </a>
 
 <a href="https://www.instagram.com/wholley20257750">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
 </a>
 
 <a href="https://x.com/hannah_bf_4ever">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50"/>
 </a>
 
 <a href="https://www.tiktok.com/@hannahs_boyfriend_4ever">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/>
 </a>
 
 <a href="https://www.youtube.com/@hannahs_boyfriend_4ever">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/>
 </a>
 
 <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="50"/>
 </a>
 
 </p>
@@ -72,26 +72,6 @@ Coding for **4+ years** and always leveling up.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,discord&theme=dark"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=4realwilly&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
