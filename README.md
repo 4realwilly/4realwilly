@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&hideStatus=true&hideDecoration=true&hideTimestamp=true&hideTag=true&hideBadges=true&hideActivity=true&hideSpotify=true&theme=dark"/>
+    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&theme=dark"/>
   </a>
 </p>
 
@@ -26,31 +26,31 @@
 <p align="center">
 
 <a href="mailto:william.h61909@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/YBPd4X5Xjs">
-<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/wholley20257750">
-<img src="https://cdn.simpleicons.org/instagram" height="50"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/hannah_bf_4ever">
-<img src="https://cdn.simpleicons.org/x" height="50"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@hannahs_boyfriend_4ever">
-<img src="https://cdn.simpleicons.org/tiktok" height="50"/>
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@hannahs_boyfriend_4ever">
-<img src="https://cdn.simpleicons.org/youtube" height="50"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
-<img src="https://cdn.simpleicons.org/spotify" height="50"/>
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
 </p>
@@ -71,7 +71,7 @@ Coding for **4+ years** and always leveling up.
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,discord&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,discord&theme=dark"/>
 </p>
 
 ---
@@ -79,11 +79,11 @@ Coding for **4+ years** and always leveling up.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4realwilly&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Coding for **4+ years** and always leveling up.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=4realwilly&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=4realwilly&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -99,9 +99,9 @@ Coding for **4+ years** and always leveling up.
 # 🎧 Currently Listening
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true"/>
-  </a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=compact&show_offline=true&background_color=121212"/>
+</a>
 </p>
 
 ---
@@ -109,11 +109,11 @@ Coding for **4+ years** and always leveling up.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+<i>Always learning. Always building.</i>
 </p>
