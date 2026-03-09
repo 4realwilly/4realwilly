@@ -34,22 +34,25 @@ Coding for **4+ years** and always leveling up.
 
 ---
 
-# Currently Playing (Spotify)
+# Current Activity
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true" width="100%" style="max-width:400px; height:auto;" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
-# Discord Presence
-
-<p align="center">
-  <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true" alt="Discord Presence"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/1342676516353343513">
+        <img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true" alt="Discord Presence"/>
+        <br>Discord Presence
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true">
+        [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true)
+        <br>Currently Playing
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 ---
