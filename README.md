@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&hideStatus=true&hideDecoration=true&hideTimestamp=true&hideTag=true&hideBadges=true&hideActivity=true&hideSpotify=true&theme=dark)](https://discord.com/users/1342676516353343513)
-
 <h1 align="center">Hey, I'm William 👋</h1>
 
 <p align="center">
@@ -13,6 +11,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1342676516353343513">
+    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?showDisplayName=true&hideStatus=true&hideDecoration=true&hideTimestamp=true&hideTag=true&hideBadges=true&hideActivity=true&hideSpotify=true&theme=dark"/>
+  </a>
 </p>
 
 ---
@@ -39,10 +43,6 @@ Coding for **4+ years** and always leveling up.
 # 🎧 Current Activity
 
 <p align="center">
-  <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true" width="260"/>
-  </a>
-  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" width="260"/>
   </a>
