@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm William 👋</h1>
+<h1 align="center">Hey, I'm William</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Developer;Game+Developer;Always+Learning+New+Tech"/>
@@ -21,7 +21,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="mailto:william.h61909@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
@@ -35,18 +35,18 @@
 
 ---
 
-# 🚀 What I Do
+## What I Do
 
-- 🌐 Web Development  
-- 🤖 Discord Bot Development  
-- 🎮 Game Development  
-- 🧠 Break things and rebuild them better  
+- Web Development  
+- Discord Bot Development  
+- Game Development  
+- Break things and rebuild them better  
 
 Coding for **4+ years** and always leveling up.
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,discord&theme=dark"/>
@@ -54,7 +54,7 @@ Coding for **4+ years** and always leveling up.
 
 ---
 
-# 🎧 Currently Listening
+## Currently Listening
 
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4">
@@ -64,7 +64,7 @@ Coding for **4+ years** and always leveling up.
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -73,5 +73,5 @@ Coding for **4+ years** and always leveling up.
 ---
 
 <p align="center">
-<i>Always learning. Always building.</i>
+Always learning. Always building.
 </p>
