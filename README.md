@@ -38,17 +38,17 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true" target="_blank">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true" width="100%" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true" width="100%" style="max-width:400px; height:auto;" />
 </a>
 </p>
 
 ---
 
-# Discord Presence (Responsive)
+# Discord Presence (Static Badge)
 
 <p align="center">
 <a href="https://discord.com/users/1342676516353343513" target="_blank">
-<img src="https://lanyard.cnrad.dev/api/1342676516353343513.svg?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true" width="100%" style="max-width:400px; height:auto;">
+<img src="https://img.shields.io/badge/Discord-Online-7289DA?style=for-the-badge&logo=discord" width="100%" style="max-width:400px; height:auto;" />
 </a>
 </p>
 
