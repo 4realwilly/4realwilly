@@ -44,12 +44,10 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 
 ---
 
-# Discord Presence (Static Badge)
+# Discord Presence
 
 <p align="center">
-<a href="https://discord.com/users/1342676516353343513" target="_blank">
-<img src="https://img.shields.io/badge/Discord-Online-7289DA?style=for-the-badge&logo=discord" width="100%" style="max-width:400px; height:auto;" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true)](https://discord.com/users/1342676516353343513)
 </p>
 
 ---
