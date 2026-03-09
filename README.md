@@ -37,17 +37,17 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 # Currently Playing
 
 <p align="center">
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true)
-
 </p>
 
 ---
 
-# Discord Presence
+# Discord Presence (Responsive)
 
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true)](https://discord.com/users/1342676516353343513)
+<a href="https://discord.com/users/1342676516353343513" target="_blank">
+<img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&hideSpotify=true&hideBadges=true&hideTag=true&showDisplayName=true" width="300" style="max-width:100%; height:auto;">
+</a>
 </p>
 
 ---
