@@ -44,10 +44,10 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 
 ---
 
-# Discord Presence
+# Discord Presence (Responsive)
 
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true)](https://discord.com/users/1342676516353343513)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513.svg?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true)](https://discord.com/users/1342676516353343513)
 </p>
 
 ---
