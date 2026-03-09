@@ -47,7 +47,7 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 # 💬 Discord Status
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&bg=121212&borderRadius=10px"/>
+<img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&bg=121212&borderRadius=10px&animated=true"/>
 </p>
 
 ---
@@ -73,16 +73,8 @@ Coding for **<!-- CODING_YEARS_START -->4<!-- CODING_YEARS_END -->+ years** and 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/4realwilly/4realwilly/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/4realwilly/4realwilly/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-# ⏱ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ---
 
