@@ -24,35 +24,13 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:william.h61909@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
-</a>
-
-<a href="https://discord.gg/YBPd4X5Xjs">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50"/>
-</a>
-
-<a href="https://www.instagram.com/wholley20257750">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
-</a>
-
-<a href="https://x.com/hannah_bf_4ever">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50"/>
-</a>
-
-<a href="https://www.tiktok.com/@hannahs_boyfriend_4ever">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/>
-</a>
-
-<a href="https://www.youtube.com/@hannahs_boyfriend_4ever">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/>
-</a>
-
-<a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="50"/>
-</a>
-
+<a href="mailto:william.h61909@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
+<a href="https://discord.gg/YBPd4X5Xjs"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
+<a href="https://www.instagram.com/wholley20257750"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
+<a href="https://x.com/hannah_bf_4ever"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50"/></a>
+<a href="https://www.tiktok.com/@hannahs_boyfriend_4ever"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
+<a href="https://www.youtube.com/@hannahs_boyfriend_4ever"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/></a>
+<a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="50"/></a>
 </p>
 
 ---
