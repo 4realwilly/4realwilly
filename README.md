@@ -44,10 +44,12 @@ Coding for **4+ years** and always leveling up.
 
 ---
 
-# Discord Presence (Responsive)
+# Discord Presence
 
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1342676516353343513.svg?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true)](https://discord.com/users/1342676516353343513)
+  <a href="https://discord.com/users/1342676516353343513">
+    <img src="https://lanyard.cnrad.dev/api/1342676516353343513?theme=dark&showDisplayName=true&hideSpotify=true&hideBadges=true&hideTag=true" alt="Discord Presence"/>
+  </a>
 </p>
 
 ---
