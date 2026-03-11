@@ -38,7 +38,7 @@
 ## What I Do
 
 - Web Development  
-- Discord Bot Development  
+- Bot Development  
 - Game Development  
 - Break things and rebuild them better  
 
