@@ -42,7 +42,7 @@
 - Game Development  
 - Break things and rebuild them better  
 
-Coding for **4+ years** and always leveling up.
+Coding for **4+ years**
 
 ---
 
