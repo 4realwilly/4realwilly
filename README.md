@@ -42,8 +42,6 @@
 - Game Development  
 - Break things and rebuild them better  
 
-Coding for **4+ years**
-
 ---
 
 ## Tech Stack
