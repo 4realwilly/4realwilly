@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://activity.beam.qzz.io/api/1342676516353343513?showDisplayName=true&animated=false&hideStatus=true&hideDecoration=true&animatedDecoration=false&hideTimestamp=true&hideTag=true&hideBadges=true&hideActivity=true&hideSpotify=true&theme=dark"/>
+    <img src="https://activity.beam.qzz.io/api/1342676516353343513"/>
   </a>
 </p>
 
