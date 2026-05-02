@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://activity.beam.qzz.io/api/1342676516353343513"/>
+    <img src="https://dc.status.will.sryze.cc/api/1342676516353343513"/>
   </a>
 </p>
 
