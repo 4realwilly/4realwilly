@@ -15,12 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=4realwilly"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/1342676516353343513">
     <img src="https://dc.status.will.sryze.cc/api/1342676516353343513"/>
   </a>
@@ -58,15 +52,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,mongodb,mysql,aws,git,github,vscode,discord&theme=dark"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&locale=en"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4realwilly&show_icons=true&locale=en&layout=compact"/>
 </p>
 
 ---
