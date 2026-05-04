@@ -1,16 +1,23 @@
-<h1 align="center">Hey, I'm William</h1>
+<h1 align="center">Hi 👋, I'm William Holley</h1>
+<h3 align="center">Frontend & Full Stack Developer from Geneseo, IL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Developer;Game+Developer;Always+Learning+New+Tech"/>
 </p>
 
 <p align="center">
-  <strong>16 y/o Full Stack Developer</strong><br>
-  Building websites, bots, and games that do not suck
+  <strong>16 y/o Developer</strong><br>
+  Building websites, bots, and games that don’t suck
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=4realwilly"/>
+  </a>
 </p>
 
 <p align="center">
@@ -21,38 +28,50 @@
 
 ---
 
-## Connect With Me
+## 🚀 About Me
+
+- 🔭 Currently working on **Beam Devs**
+- 🌱 Learning **APIs & Backend Systems**
+- 👯 Looking to collaborate on **Projects** → https://me.will.sryze.cc
+- 🤝 Open to helping with **any development projects**
+- 👨‍💻 Portfolio: https://me.will.sryze.cc  
+- 💬 Ask me about **Discord.js, Python, Backend**
+- 📫 Email: **william.h61909@gmail.com**
+- ⚡ Fun fact: Started learning dev at **13**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:william.h61909@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
 <a href="https://discord.gg/YBPd4X5Xjs"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50"/></a>
 <a href="https://www.instagram.com/wholley20257750"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
 <a href="https://x.com/hannah_bf_4ever"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50"/></a>
-<a href="https://www.tiktok.com/@hannahs_boyfriend_4ever"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="50"/></a>
 <a href="https://www.youtube.com/@hannahs_boyfriend_4ever"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="50"/></a>
 <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="50"/></a>
 </p>
 
 ---
 
-## What I Do
-
-- Web Development  
-- Bot Development  
-- Game Development  
-- Break things and rebuild them better  
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,discord&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,mongodb,mysql,aws,git,github,vscode,discord&theme=dark"/>
 </p>
 
 ---
 
-## Currently Listening
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4realwilly&show_icons=true&locale=en"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4realwilly&show_icons=true&locale=en&layout=compact"/>
+</p>
+
+---
+
+## 🎧 Currently Listening
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312byzmt3yb4w42d6l6di4vx2de4&redirect=true">
@@ -62,7 +81,7 @@
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -71,5 +90,5 @@
 ---
 
 <p align="center">
-Always learning. Always building.
+Always learning. Always building. 🚀
 </p>
