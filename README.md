@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-Always learning. Always building. 🚀
+Always learning. Always building.
 </p>
