@@ -14,12 +14,18 @@
   <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/1342676516353343513">
+    <img src="https://dc.status.will.sryze.cc/api/1342676516353343513"/>
+  </a>
+</p>
+
 ---
 
 ## <img src="https://cdn.simpleicons.org/github/ffffff" height="20"/> About Me
 
 - <img src="https://cdn.simpleicons.org/discord/ffffff" height="16"/> Currently working on **Beam Devs**
-- <img src="https://cdn.simpleicons.org/openai/ffffff" height="16"/> Learning **APIs & Backend Systems**
+- <img src="https://cdn.simpleicons.org/postman/ffffff" height="16"/> Learning **APIs & Backend Systems**
 - <img src="https://cdn.simpleicons.org/github/ffffff" height="16"/> Collaborating → https://me.will.sryze.cc
 - <img src="https://cdn.simpleicons.org/googlechrome/ffffff" height="16"/> Portfolio: https://me.will.sryze.cc  
 - <img src="https://cdn.simpleicons.org/javascript/ffffff" height="16"/> Ask me about **Discord.js, Python, Backend**
