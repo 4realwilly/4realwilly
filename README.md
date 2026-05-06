@@ -38,8 +38,6 @@
 <p align="center">
 <a href="mailto:william.h61909@gmail.com"><img src="https://cdn.simpleicons.org/gmail/60A5FA" height="40"/></a>
 <a href="https://discord.gg/YBPd4X5Xjs"><img src="https://cdn.simpleicons.org/discord/60A5FA" height="40"/></a>
-<a href="https://www.instagram.com/wholley20257750"><img src="https://cdn.simpleicons.org/instagram/60A5FA" height="40"/></a>
-<a href="https://x.com/hannah_bf_4ever"><img src="https://cdn.simpleicons.org/x/60A5FA" height="40"/></a>
 <a href="https://www.youtube.com/@hannahs_boyfriend_4ever"><img src="https://cdn.simpleicons.org/youtube/60A5FA" height="40"/></a>
 <a href="https://open.spotify.com/user/312byzmt3yb4w42d6l6di4vx2de4"><img src="https://cdn.simpleicons.org/spotify/60A5FA" height="40"/></a>
 </p>
