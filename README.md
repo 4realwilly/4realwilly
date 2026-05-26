@@ -15,9 +15,14 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1342676516353343513">
-    <img src="https://dc.status.will.sryze.cc/api/1342676516353343513"/>
-  </a>
+  <iframe 
+    src="https://discord.com/widget?id=1485265855381115001&theme=dark"
+    width="300"
+    height="380"
+    allowtransparency="true"
+    frameborder="0"
+    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+  </iframe>
 </p>
 
 ---
