@@ -15,14 +15,12 @@
 </p>
 
 <p align="center">
-  <iframe 
-    src="https://discord.com/widget?id=1485265855381115001&theme=dark"
-    width="300"
-    height="380"
-    allowtransparency="true"
-    frameborder="0"
-    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-  </iframe>
+  <a href="https://discord.gg/YBPd4X5Xjs">
+    <img 
+      src="https://discordapp.com/api/guilds/1485265855381115001/widget.png?style=banner2"
+      width="300"
+    />
+  </a>
 </p>
 
 ---
