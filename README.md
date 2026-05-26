@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Holley</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=300&lines=💙+Taken+By+Hannah+💙"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2500&pause=100000&color=FF4D6D&center=true&vCenter=true&width=500&lines=TAKEN+BY+HANNAH"
+  />
 </p>
 
 <h3 align="center">Frontend & Full Stack Developer from Geneseo, IL</h3>
