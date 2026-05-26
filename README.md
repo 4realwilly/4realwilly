@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Holley</h1>
+
+<p align="center">
+  <sub>Taken By Hannah 💙</sub>
+</p>
+
 <h3 align="center">Frontend & Full Stack Developer from Geneseo, IL</h3>
 
 <p align="center">
