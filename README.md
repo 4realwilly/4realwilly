@@ -32,8 +32,8 @@
 
 - <img src="https://cdn.simpleicons.org/discord/60A5FA" height="16"/> Currently working on **Lyro**
 - <img src="https://cdn.simpleicons.org/postman/60A5FA" height="16"/> Learning **APIs & Backend Systems**
-- <img src="https://cdn.simpleicons.org/github/60A5FA" height="16"/> Collaborating → https://me.will.sryze.cc
-- <img src="https://cdn.simpleicons.org/googlechrome/60A5FA" height="16"/> Portfolio: https://me.will.sryze.cc  
+- <img src="https://cdn.simpleicons.org/github/60A5FA" height="16"/> Collaborating → https://me.will.nx.kg
+- <img src="https://cdn.simpleicons.org/googlechrome/60A5FA" height="16"/> Portfolio: https://me.will.nx.kg
 - <img src="https://cdn.simpleicons.org/javascript/60A5FA" height="16"/> Ask me about **Discord.js, Python, Backend**
 - <img src="https://cdn.simpleicons.org/gmail/60A5FA" height="16"/> Email: **william.h61909@gmail.com**
 
