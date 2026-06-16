@@ -30,7 +30,7 @@
 
 ## <img src="https://cdn.simpleicons.org/github/60A5FA" height="20"/> About Me
 
-- <img src="https://cdn.simpleicons.org/discord/60A5FA" height="16"/> Currently working on **Lyro**
+- <img src="https://cdn.simpleicons.org/discord/60A5FA" height="16"/> Currently working on **Life**
 - <img src="https://cdn.simpleicons.org/postman/60A5FA" height="16"/> Learning **APIs & Backend Systems**
 - <img src="https://cdn.simpleicons.org/github/60A5FA" height="16"/> Collaborating → https://me.will.nx.kg
 - <img src="https://cdn.simpleicons.org/googlechrome/60A5FA" height="16"/> Portfolio: https://me.will.nx.kg
