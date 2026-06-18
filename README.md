@@ -15,10 +15,12 @@ Building bots, websites, and applications that bring ideas to life.
 ## 💫 About Me
 
 * 🚀 Building Discord bots, websites, and full-stack web applications
+* 🎂 16-year-old developer passionate about creating and learning
 * 🤝 Open to collaborating on open-source and community-driven projects
 * 📚 Exploring new frameworks, APIs, and development tools
 * 💡 Ask me about JavaScript, TypeScript, Discord.js, and web development
 * 🎯 Passionate about creating projects that solve real-world problems
+* ❤️ Happily taken and grateful to have Hannah by my side
 * ⚡ Always experimenting with new technologies and ideas
 
 ---
@@ -93,6 +95,8 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
----
+</div>
