@@ -14,9 +14,9 @@ Building bots, websites, and applications that bring ideas to life.
 
 ## 💫 About Me
 
-* 🚀 Building Discord bots, websites, and full-stack applications
+* 🚀 Building Discord bots, websites, and full-stack web applications
 * 🤝 Open to collaborating on open-source and community-driven projects
-* 📚 Constantly learning new frameworks, APIs, and development tools
+* 📚 Exploring new frameworks, APIs, and development tools
 * 💡 Ask me about JavaScript, TypeScript, Discord.js, and web development
 * 🎯 Passionate about creating projects that solve real-world problems
 * ⚡ Always experimenting with new technologies and ideas
@@ -93,30 +93,6 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## 🎯 2026 Goals
-
-* Contribute more to open-source projects
-* Build larger-scale web applications
-* Learn additional frameworks and technologies
-* Grow my developer community
-* Launch more public projects
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
-</div>
-
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Create. Innovate."*
-
-</div>
