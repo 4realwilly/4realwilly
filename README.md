@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"> Hey, I'm William
+# <img src="https://skillicons.dev/icons?i=vscode" width="32" alt="Developer"> Hey, I'm William
 
 <div align="center">
 
@@ -12,20 +12,20 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2728.svg" width="24"> About Me
+## <img src="https://skillicons.dev/icons?i=devto" width="24" alt="About"> About Me
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="18"> Building Discord bots, websites, and full-stack web applications
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"> 16-year-old developer passionate about creating and learning
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"> Open to collaborating on open-source and community-driven projects
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"> Exploring new frameworks, APIs, and development tools
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"> Ask me about JavaScript, TypeScript, Discord.js, and web development
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"> Passionate about creating projects that solve real-world problems
-* <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2764.svg" width="18"> Happily taken and grateful to have Hannah by my side
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18"> Always experimenting with new technologies and ideas
+* <img src="https://skillicons.dev/icons?i=discord" width="18" alt="Discord"> Building Discord bots, websites, and full-stack web applications
+* <img src="https://skillicons.dev/icons?i=js" width="18" alt="Age"> 16-year-old developer passionate about creating and learning
+* <img src="https://skillicons.dev/icons?i=git" width="18" alt="Collaboration"> Open to collaborating on open-source and community-driven projects
+* <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Learning"> Exploring new frameworks, APIs, and development tools
+* <img src="https://skillicons.dev/icons?i=ts" width="18" alt="Code"> Ask me about JavaScript, TypeScript, Discord.js, and web development
+* <img src="https://skillicons.dev/icons?i=vscode" width="18" alt="Projects"> Passionate about creating projects that solve real-world problems
+* <img src="https://skillicons.dev/icons?i=github" width="18" alt="Relationship"> Happily taken and grateful to have Hannah by my side ❤️
+* <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Experimenting"> Always experimenting with new technologies and ideas
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f310.svg" width="24"> Connect With Me
+## <img src="https://skillicons.dev/icons?i=linkedin" width="24" alt="Socials"> Connect With Me
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="24"> Tech Stack
+## <img src="https://skillicons.dev/icons?i=javascript" width="24" alt="Tech"> Tech Stack
 
 ### Languages
 
@@ -71,25 +71,25 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f525.svg" width="24"> Currently Working On
+## <img src="https://skillicons.dev/icons?i=discord" width="24" alt="Projects"> Currently Working On
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20"> Advanced Discord Bot Development
+<img src="https://skillicons.dev/icons?i=discord" width="22" alt="Discord"> Advanced Discord Bot Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> Full-Stack Web Applications
+<img src="https://skillicons.dev/icons?i=react" width="22" alt="React"> Full-Stack Web Applications
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"> API Integrations & Backend Services
+<img src="https://skillicons.dev/icons?i=nodejs" width="22" alt="NodeJS"> API Integrations & Backend Services
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"> Modern UI/UX Experiences
+<img src="https://skillicons.dev/icons?i=figma" width="22" alt="Figma"> Modern UI/UX Experiences
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> Automation & Productivity Tools
+<img src="https://skillicons.dev/icons?i=js" width="22" alt="JavaScript"> Automation & Productivity Tools
 
 </div>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"> GitHub Stats
+## <img src="https://skillicons.dev/icons?i=github" width="24" alt="Stats"> GitHub Stats
 
 <div align="center">
 
