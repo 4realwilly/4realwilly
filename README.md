@@ -1,8 +1,8 @@
-# 👋 Hey, I'm William
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"> Hey, I'm William
 
 <div align="center">
 
-### 🚀 Full-Stack Developer • Discord Bot Developer • Problem Solver
+### Full-Stack Developer • Discord Bot Developer • Problem Solver
 
 Building bots, websites, and applications that bring ideas to life.
 
@@ -12,20 +12,20 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## 💫 About Me
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2728.svg" width="24"> About Me
 
-* 🚀 Building Discord bots, websites, and full-stack web applications
-* 🎂 16-year-old developer passionate about creating and learning
-* 🤝 Open to collaborating on open-source and community-driven projects
-* 📚 Exploring new frameworks, APIs, and development tools
-* 💡 Ask me about JavaScript, TypeScript, Discord.js, and web development
-* 🎯 Passionate about creating projects that solve real-world problems
-* ❤️ Happily taken and grateful to have Hannah by my side
-* ⚡ Always experimenting with new technologies and ideas
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="18"> Building Discord bots, websites, and full-stack web applications
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"> 16-year-old developer passionate about creating and learning
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"> Open to collaborating on open-source and community-driven projects
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"> Exploring new frameworks, APIs, and development tools
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"> Ask me about JavaScript, TypeScript, Discord.js, and web development
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"> Passionate about creating projects that solve real-world problems
+* <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/2764.svg" width="18"> Happily taken and grateful to have Hannah by my side
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18"> Always experimenting with new technologies and ideas
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f310.svg" width="24"> Connect With Me
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="24"> Tech Stack
 
 ### Languages
 
@@ -71,7 +71,25 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f525.svg" width="24"> Currently Working On
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20"> Advanced Discord Bot Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> Full-Stack Web Applications
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"> API Integrations & Backend Services
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"> Modern UI/UX Experiences
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> Automation & Productivity Tools
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"> GitHub Stats
 
 <div align="center">
 
@@ -82,16 +100,6 @@ Building bots, websites, and applications that bring ideas to life.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=4realwilly\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 </div>
-
----
-
-## 🚀 Currently Working On
-
-* 🤖 Advanced Discord Bots
-* 🌐 Full-Stack Web Applications
-* 🔗 API Integrations
-* 📱 Modern Web Experiences
-* ⚙️ Automation Projects
 
 ---
 
