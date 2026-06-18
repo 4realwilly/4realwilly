@@ -1,4 +1,4 @@
-# <img src="https://skillicons.dev/icons?i=vscode" width="32" alt="Developer"> Hey, I'm William
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="32" alt="Developer"> Hey, I'm William
 
 <div align="center">
 
@@ -12,20 +12,20 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=devto" width="24" alt="About"> About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="24" alt="About"> About Me
 
 * <img src="https://skillicons.dev/icons?i=discord" width="18" alt="Discord"> Building Discord bots, websites, and full-stack web applications
-* <img src="https://skillicons.dev/icons?i=js" width="18" alt="Age"> 16-year-old developer passionate about creating and learning
-* <img src="https://skillicons.dev/icons?i=git" width="18" alt="Collaboration"> Open to collaborating on open-source and community-driven projects
-* <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Learning"> Exploring new frameworks, APIs, and development tools
-* <img src="https://skillicons.dev/icons?i=ts" width="18" alt="Code"> Ask me about JavaScript, TypeScript, Discord.js, and web development
-* <img src="https://skillicons.dev/icons?i=vscode" width="18" alt="Projects"> Passionate about creating projects that solve real-world problems
-* <img src="https://skillicons.dev/icons?i=github" width="18" alt="Relationship"> Happily taken and grateful to have Hannah by my side ❤️
-* <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Experimenting"> Always experimenting with new technologies and ideas
+* <img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"> 16-year-old developer passionate about creating and learning
+* <img src="https://skillicons.dev/icons?i=git" width="18" alt="Git"> Open to collaborating on open-source and community-driven projects
+* <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js"> Exploring new frameworks, APIs, and development tools
+* <img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"> Ask me about JavaScript, TypeScript, Discord.js, and web development
+* <img src="https://skillicons.dev/icons?i=vscode" width="18" alt="VS Code"> Passionate about creating projects that solve real-world problems
+* <img src="https://img.icons8.com/fluency/48/like.png" width="18" alt="Heart"> Happily taken and grateful to have Hannah by my side
+* <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Docker"> Always experimenting with new technologies and ideas
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=linkedin" width="24" alt="Socials"> Connect With Me
+## <img src="https://img.icons8.com/fluency/48/link.png" width="24" alt="Links"> Connect With Me
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=javascript" width="24" alt="Tech"> Tech Stack
+## <img src="https://img.icons8.com/fluency/48/code.png" width="24" alt="Code"> Tech Stack
 
 ### Languages
 
@@ -71,7 +71,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=discord" width="24" alt="Projects"> Currently Working On
+## <img src="https://img.icons8.com/fluency/48/work.png" width="24" alt="Projects"> Currently Working On
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 <img src="https://skillicons.dev/icons?i=react" width="22" alt="React"> Full-Stack Web Applications
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="22" alt="NodeJS"> API Integrations & Backend Services
+<img src="https://skillicons.dev/icons?i=nodejs" width="22" alt="Node.js"> API Integrations & Backend Services
 
 <img src="https://skillicons.dev/icons?i=figma" width="22" alt="Figma"> Modern UI/UX Experiences
 
@@ -89,7 +89,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="24" alt="Stats"> GitHub Stats
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="24" alt="Stats"> GitHub Stats
 
 <div align="center">
 
