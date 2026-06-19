@@ -15,7 +15,7 @@ Building bots, websites, and applications that bring ideas to life.
 ## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="24" alt="About"> About Me
 
 * <img src="https://skillicons.dev/icons?i=discord" width="18" alt="Discord"> Building Discord bots, websites, and full-stack web applications
-* <img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"> 16-year-old developer passionate about creating and learning
+* <img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript"> 17-year-old developer passionate about creating and learning
 * <img src="https://skillicons.dev/icons?i=git" width="18" alt="Git"> Open to collaborating on open-source and community-driven projects
 * <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js"> Exploring new frameworks, APIs, and development tools
 * <img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript"> Ask me about JavaScript, TypeScript, Discord.js, and web development
