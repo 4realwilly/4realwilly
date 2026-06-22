@@ -30,7 +30,7 @@ Building bots, websites, and applications that bring ideas to life.
 <div align="center">
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/willy222222222.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/UU63ryT9Y2)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/MFyt7dBFCa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/wholley20257750)
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@hannahsbf4ever112825)
