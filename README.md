@@ -10,7 +10,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 <br>
 
-![Discord Status](http://localhost:3000/users?id=1342676516353343513) 
+![Discord Status](df) 
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="24" alt="About"> About Me
