@@ -10,8 +10,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 <br>
 
-<img src="https://signal.sryze.cc/users?id=1342676516353343513" alt="Discord Signal Status" />
-</a>
+![Discord Status](https://signal.sryze.cc/shield?id=1342676516353343513&theme=dark)</a>
 
 </div>
 
