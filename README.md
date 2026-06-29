@@ -10,7 +10,7 @@ Building bots, websites, and applications that bring ideas to life.
 
 <br>
 
-![Discord Status](http://45.134.39.212:4080/users?id=1342676516353343513) 
+[![Discord Status](https://signal.sryze.cc/users?id=1342676516353343513&theme=dark&size=compact&hide=banner)](https://signal.sryze.cc/card?id=1342676516353343513&theme=dark&size=compact&hide=banner)
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="24" alt="About"> About Me
